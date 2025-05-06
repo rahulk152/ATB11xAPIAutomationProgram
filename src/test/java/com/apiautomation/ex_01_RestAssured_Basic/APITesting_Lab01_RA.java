@@ -1,4 +1,4 @@
-package com.apiautomation;
+package com.apiautomation.ex_01_RestAssured_Basic;
 
 import io.restassured.RestAssured;
 
