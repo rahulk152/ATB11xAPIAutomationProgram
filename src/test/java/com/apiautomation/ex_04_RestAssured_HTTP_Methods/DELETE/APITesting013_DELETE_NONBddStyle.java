@@ -13,7 +13,7 @@ public class APITesting013_DELETE_NONBddStyle {
     ValidatableResponse vr;
 
     @Test
-    public void test_patch_non_bdd() {
+    public void test_delete_non_bdd() {
 
 
         String token = "924d2e6821bbd23";
