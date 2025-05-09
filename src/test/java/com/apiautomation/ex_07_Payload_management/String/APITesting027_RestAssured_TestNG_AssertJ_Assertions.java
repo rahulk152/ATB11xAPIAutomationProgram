@@ -1,4 +1,4 @@
-package com.apiautomation.ex_06_TestAssetions;
+package com.apiautomation.ex_07_Payload_management.String;
 
 import io.restassured.RestAssured;
 import io.restassured.http.ContentType;
@@ -9,7 +9,7 @@ import org.hamcrest.Matchers;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-import static org.assertj.core.api.Assertions.*;
+import static org.assertj.core.api.Assertions.assertThat;
 
 public class APITesting027_RestAssured_TestNG_AssertJ_Assertions {
 
